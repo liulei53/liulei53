@@ -7,7 +7,7 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu 20.04
     timeout-minutes: 10
 
     steps:
@@ -15,7 +15,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: zhoufanglu
+          github_user_name: liulei53
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
