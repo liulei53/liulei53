@@ -9,6 +9,6 @@
 - 🏦喜欢金融，爱搞钱。
 ---
 ## 博客
-个人博客：[https://blog.liulei.org](https://blog.liulei.org)
+个人博客：[https://blog.liulei.org](https://blog.liulei.org)  
 潮流周刊：[https://weekly.liulei.org](https://weekly.liulei.org)
 
