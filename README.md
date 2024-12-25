@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 欢迎来到我的GitHub主页
 
-
-**liulei53/liulei53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://raw.githubusercontent.com/liulei53/liulei53/refs/heads/output/github-contribution-grid-snake.svg)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 个人简介
+- ⌨️我是一个业余程序员，coding是我的一项爱好。
+- 🧑‍🏫从事数据中心运维工作十年有余。
+- 🏄喜欢各类运动，目前正在学习网球。
+- 🏦喜欢金融，爱搞钱。
+---
+## 博客
+个人博客：[https://blog.liulei.org](https://blog.liulei.org)
+潮流周刊：[https://weekly.liulei.org](https://weekly.liulei.org)
 
