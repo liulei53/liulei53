@@ -10,5 +10,6 @@
 
 ## 博客
 个人博客：[https://blog.liulei.org](https://blog.liulei.org)  
-潮流周刊：[https://weekly.liulei.org](https://weekly.liulei.org)
+潮流周刊：[https://weekly.202256.xyz](https://weekly.202256.xyz) 
+
 
